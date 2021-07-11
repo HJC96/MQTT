@@ -1,5 +1,5 @@
 # MQTT Protocol
-## Arduino, Raspberry
+## Arduino, Raspberry Pi
 
 [파이보를 활용한 스마트 조명 스위치]
 
